@@ -44,46 +44,32 @@
                 <div id = "lewastrona">
 
                     <!-- Title in box -->
-                
-                    <div id = "text" style = "text-align: center;">Updates</div> 
 
-                    <!-- Containers with data -->
-                    
-                    <div class="container1" >
-                        <div class="panel panel-default">
-                            <div class="panel-body" style = "padding-top:30px;">
-                                <div class="col-md-12" >
-                                    <hr>
-                                    <h2 style = "margin-left:50%;color:white;">Title_1</h2>
-                                    <p style = "margin-left:50%;color:white;">Content_1</p>
-                                    <i style = "margin-left:65%;color:white;">Author_id=1</i>
-                                    <hr>
-                                </div>
-                            </div>
+                    <div id = "text" style = "text-align: center;">News !</div>
+                    <div class = "lewawiadomosc0" style = "margin-top:5%;">
+                        <a href="wiadomosci1.php">
+                        <img src = "resource/images/event1.png"  alt = "Playing With Mischief-Makers! Next-Generation Rising Stars" width = "35%" height = "140" >
+                        <div class = "prawawiadomoscv1" style = "font-size:115%;">
+                            TECHNICZNE ALFA-TESTY DIABLO II <br>RESSURECTED - PRZEŻYJ POWRÓT LEGENDY!</br>
+                            <h6>Informacje na temat alfa testów Diablo II: Ressurected.Poznaj wszystkie<br> szczegóły i  odpowiedzi na najbardziej palące pytania dotyczące tych <br>ograniczonych, publicznych, technicznych alfa-testów.</h6>
                         </div>
-                    </div> 
-                    <div class="container1" >
-                        <div class="panel panel-default">
-                            <div class="panel-body" style = "padding-top:30px;">
-                                <div class="col-md-12" >
-                                    <hr>
-                                    <h2 style = "margin-left:50%;color:white;">Title_2</h2>
-                                    <p style = "margin-left:50%;color:white;"> Content_2</p>
-                                    <i style = "margin-left:65%;color:white;">Author_id=1</i>
-                                    <hr>
-                                </div>
-                            </div>
+                    </div>
+                    <div class = "lewawiadomosc1" style = "margin-top:30%;">
+                        <a href="wiadomosci2.php">
+                        <img src = "resource/images/event2.png"  alt = "Super Evolution! Saiyan Soaring Through the Galaxy" width = "35%" height = "140">
+                        <div class = "prawawiadomoscv2" style = "font-size:115%;">Super Evolution! Saiyan Soaring Through the Galaxy 
+                            <h6>Check what you will face to get new awakening medals.<br></h6>
                         </div>
                     </div>
                 </div>
-
-                <!-- Footer -->
-                
-                <div id = "footer" class="footer m-3" style="text-align:center;">
-                    <span style="color: white">Patryk Andrzejewski 2021 <img src="resource/images/Poli625_Avatar.jpg" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width:35px"><br/></span>
-                    <span style="color: white">Praca przygotowana na zajęcia Projektowanie Interfejsów</span>
-                </div>
             </div>
+        </div>
+
+        <!-- Footer -->
+                
+        <div id = "footer" class="footer m-3" style="text-align:center;">
+            <span style="color: white">Patryk Andrzejewski 2021 <img src="resource/images/Poli625_Avatar.jpg" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width:35px"><br/></span>
+            <span style="color: white">Praca przygotowana na zajęcia Projektowanie Interfejsów</span>
         </div>
     </body>
 </html>

@@ -45,45 +45,30 @@
 
                     <!-- Title in box -->
                 
-                    <div id = "text" style = "text-align: center;">Updates</div> 
-
-                    <!-- Containers with data -->
-                    
-                    <div class="container1" >
-                        <div class="panel panel-default">
-                            <div class="panel-body" style = "padding-top:30px;">
-                                <div class="col-md-12" >
-                                    <hr>
-                                    <h2 style = "margin-left:50%;color:white;">Title_1</h2>
-                                    <p style = "margin-left:50%;color:white;">Content_1</p>
-                                    <i style = "margin-left:65%;color:white;">Author_id=1</i>
-                                    <hr>
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
-                    <div class="container1" >
-                        <div class="panel panel-default">
-                            <div class="panel-body" style = "padding-top:30px;">
-                                <div class="col-md-12" >
-                                    <hr>
-                                    <h2 style = "margin-left:50%;color:white;">Title_2</h2>
-                                    <p style = "margin-left:50%;color:white;"> Content_2</p>
-                                    <i style = "margin-left:65%;color:white;">Author_id=1</i>
-                                    <hr>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Footer -->
-                
-                <div id = "footer" class="footer m-3" style="text-align:center;">
-                    <span style="color: white">Patryk Andrzejewski 2021 <img src="resource/images/Poli625_Avatar.jpg" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width:35px"><br/></span>
-                    <span style="color: white">Praca przygotowana na zajęcia Projektowanie Interfejsów</span>
+                    <span style="color:white;text-align:center;">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <h1>Zawartość zostanie dodana w przyszłości</h1>
+                    </span>
                 </div>
             </div>
+        </div>
+
+        <!-- Footer -->
+                
+        <div id = "footer" class="footer m-3" style="text-align:center;">
+            <span style="color: white">Patryk Andrzejewski 2021 <img src="resource/images/Poli625_Avatar.jpg" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width:35px"><br/></span>
+            <span style="color: white">Praca przygotowana na zajęcia Projektowanie Interfejsów</span>
         </div>
     </body>
 </html>
